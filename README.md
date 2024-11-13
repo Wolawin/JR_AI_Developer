@@ -1,6 +1,6 @@
 # JR_AI_Developer
 
-# Generowanie HTML z Artykułu za pomocą OpenAI
+## Generowanie HTML z Artykułu za pomocą OpenAI
 
 Ten projekt to aplikacja Python, która konwertuje treść artykułu na format HTML przy użyciu API OpenAI. Wygenerowany kod HTML strukturyzuje treść artykułu, a w miejscach, gdzie warto dodać obrazy, umieszcza tagi `<img>` ze wskazówkami dotyczącymi ich generowania.
 
@@ -65,12 +65,10 @@ Projekt zapisuje wyniki w pliku artykul.html, który możesz otworzyć w dowolne
 Licencja
 Ten projekt jest objęty licencją MIT. Szczegóły znajdziesz w pliku LICENSE.
 
-go
+markdown
 Skopiuj kod
 
-Plik `README.md` zapewnia jasne instrukcje dotyczące instalacji, uruchomienia oraz struktury projektu, co ułatwi użytkownikom korzystanie z aplikacji.
-
-
-
-
-
+### Wyjaśnienie formatowania:
+- **Nagłówki sekcji**: Poprawnie sformatowane, aby były wyraźnie widoczne.
+- **Fragmenty kodu**: Umieszczone w blokach `bash`, `python`, lub `html` dla lepszej czytelności.
+- **Lista punktowana**: Użyta do opisania struktury projektu oraz wymagań, co poprawia przejrzystość.
